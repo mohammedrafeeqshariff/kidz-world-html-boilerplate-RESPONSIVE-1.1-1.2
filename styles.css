@@ -30,7 +30,7 @@
     position: relative;
 }
 .banner-text-1 {
-    font-weight: 200;
+    font-weight: 150;
 }
 .banner-text-1 p{
     margin: 2px;
@@ -45,11 +45,11 @@
     position: absolute;
     top:10%;
     left:10%;
-    font-size:12svh
+    font-size:9svh
 }
 /* .fun{ */
     /* margin:50px; */
-}
+/* } */
 #havefun{
     display: flex;
     /* justify-content: space-evenly; */
